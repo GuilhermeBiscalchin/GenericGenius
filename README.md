@@ -1,5 +1,3 @@
-# GenericGenius
-
 <h1>GenericGenius - BOOTCAMP da DIGITAL INNOVATION ONE</h1>
 
 ✨ Tecnologias utilizadas nesse projeto:
