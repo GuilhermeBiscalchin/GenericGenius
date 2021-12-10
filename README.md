@@ -12,3 +12,6 @@
 <br>
 💻 Cópia do Jogo Genius, desenvolvido em HTML, CSS e JavaScript.
 
+
+
+![download](https://user-images.githubusercontent.com/82482404/145647516-030db642-3759-4248-a0e4-8dd1854f59e8.gif)
